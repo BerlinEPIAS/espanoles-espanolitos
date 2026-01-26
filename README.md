@@ -48,3 +48,6 @@ optimización gráfica brutal. muchos más fps, cero cambios de gameplay.
 
 worldedit
 herramienta de edición masiva del mundo (copiar, pegar, rellenar). pensada para admins.
+
+iris
+mod de shaders para fabric. permite usar shaders tipo seus, bsl, complementary, etc. se integra muy bien con sodium y no cambia el gameplay, solo mejora gráficos.
