@@ -1,4 +1,4 @@
-# espanoles-espanolitos
+# Españoles Españolitos
 Servidor de Minecraft de el grupo de amigos de discord de Españoles Españolitos.
 ## Idea del servidor
 El servidor tiene como objetivo ser un SMP por facciones con mecánicas vanilla, pero realmente no lo es porque tiene varios mods añadidos que no rompen mucho la funcionalidad del juego. Recomiendo instalar todos los mods de la carpeta, pues son la mayoría de optimización y preparados para el cliente. Posteriormente podréis ver una sección con más información de los Mods.
