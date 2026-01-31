@@ -41,11 +41,7 @@ abre este enlace en el navegador:
 
 👉 [https://github.com/BerlinEPIAS/espanoles-espanolitos/releases/](https://github.com/BerlinEPIAS/espanoles-espanolitos/releases/)
 
-verás algo así:
-
-* títulos
-* versiones
-* una lista de archivos debajo
+verás allí la lista de las versiones de Mods y Shaders. Elige la release de mods más moderna.
 
 📌 **lo importante son los archivos `.jar`**
 
@@ -84,7 +80,7 @@ verás algo así:
 
 3. pulsa enter
 4. abre la carpeta llamada **mods**
-5. si no existe, créala tú
+5. si no existe, créala tú. es importante que tenga ese nombre exactamente.
 
 ---
 
@@ -105,7 +101,7 @@ verás algo así:
 ### minecraft oficial
 
 1. abre el **minecraft launcher**
-2. selecciona la versión **forge** o **fabric**
+2. selecciona la versión **forge** o **fabric** (en nuestro caso es fabric)
 3. dale a **jugar**
 4. espera a que cargue (la primera vez tarda)
 
